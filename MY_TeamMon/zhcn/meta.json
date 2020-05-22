@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
+  "name": "名门PVE",
+  "author": "名门",
+  "version": "20200522",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
